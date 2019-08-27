@@ -12,15 +12,18 @@ Assumptions Used:
 <br>
 4.) Latitutde and Longitude are considered to be in Radians and budgets and prices are assumed to be integers.
 
-** For each of the requirement, Method getMatches() of GetMatches Class will be called which will then take the requirements Object as a parameter.
+<ul>
+<li> For each of the requirement, Method getMatches() of GetMatches Class will be called which will then take the requirements Object as a parameter.</li>
 
-** ArrayList matchedList contains the user matched properties list based on certain attributes i.e. matched percentage should be >=40% etc.
+<li> ArrayList matchedList contains the user matched properties list based on certain attributes i.e. matched percentage should be >=40% etc. </li>
 
-** Then ValidateRequirements() Method will be called using that Object to check the validity of different parameters of user requirements.
+<li> Then ValidateRequirements() Method will be called using that Object to check the validity of different parameters of user requirements. </li>
 
-** If the Method returns false, an empty ArrayList will be returned which indicates that there is no matching as per user requirements.
+<li> If the Method returns false, an empty ArrayList will be returned which indicates that there is no matching as per user requirements. </li>
 
-** Otherwise the match percentage using different attributes will be computed and it will be checked based on the functional requirements defined in the problem statement.
+<li> Otherwise the match percentage using different attributes will be computed and it will be checked based on the functional requirements defined in the problem statement. </li>
+
+</ul>
 
 Methods Used:
 
