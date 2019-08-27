@@ -1,4 +1,4 @@
-# BuyerRequirement-PropertyMatchingProblem
+# BuyerRequirement-Property Matching Problem
 
 Algorithm for the priority based matching of a particular buyer's requirement to list of properties.
 
